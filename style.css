@@ -4,8 +4,16 @@ body {background-image: url("http://i.imgur.com/Nbi7bYI.jpg");}
 p { font-family: 'Garamond', serif;
    font-size: 16px;}
 
+h1 {font-family: 'Berkshire Swash', cursive;
+  font-size: 42px; }
 
-h {font-family: 'Berkshire Swash', cursive;
+h2 {font-family: 'Berkshire Swash', cursive;
+  font-size: 42px; }
+
+h3 {font-family: 'Berkshire Swash', cursive;
+  font-size: 42px; }
+
+h4 {font-family: 'Berkshire Swash', cursive;
   font-size: 42px; }
 
 
