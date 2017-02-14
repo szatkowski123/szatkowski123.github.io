@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html>
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet">
+<style> 
+ body {
+      background-image: url("http://i.imgur.com/Nbi7bYI.jpg");
+      font-family: 'Garamond', serif;
+   font-size: 16px;}
+h1 {font-family: 'Berkshire Swash', cursive;
+  font-size: 42px; }
+</style>
+</html>
