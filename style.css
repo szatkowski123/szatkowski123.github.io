@@ -1,4 +1,6 @@
-body {background-image: url("http://i.imgur.com/Nbi7bYI.jpg");}
+body {background-image: url("http://i.imgur.com/Nbi7bYI.jpg");
+background-repeat:no-repeat;
+    background-size:cover;}
 
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 
